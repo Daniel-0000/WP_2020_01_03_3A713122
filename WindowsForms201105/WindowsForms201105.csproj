@@ -115,5 +115,8 @@
   <ItemGroup>
     <None Include="Resources\優質_201105_11.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="擷取.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
